@@ -1,0 +1,80 @@
+#Container {
+  position: absolute;
+  background-image: url("http://img09.deviantart.net/98bc/i/2013/084/b/2/apocalyptic_new_york___alex_drummond_by_alexdrummo-d5zav1s.jpg");
+}
+
+.YouAreDead {
+  display: none
+}
+
+#player {
+  background: url(scarlet_walk_sprite_sheet__plus_neutral_stance__by_juneofthemearkat-d5ndbb9.png);
+  height: 128px;
+  width: 64px;
+  background-position: 0px 0px;
+  position: absolute;
+  top: 500px;
+}
+
+@keyframes Walk {
+  from {
+    background-position: -64px 0px;
+  }
+  to {
+    background-position: -640px 0px;
+  }
+}
+
+body {
+  background: url("http://img09.deviantart.net/98bc/i/2013/084/b/2/apocalyptic_new_york___alex_drummond_by_alexdrummo-d5zav1s.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  min-height: 100vh;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-size: 50px;
+  background-repeat: no-repeat;
+}
+
+.pump {
+  background: url(images/pumpkin.png);
+  background-repeat: no-repeat;
+  height: 250px;
+  width: 220px;
+  position: absolute;
+  top: 500px;
+  left: 890px;
+}
+
+#dialouge {
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  top: 430px;
+  left: 870px;
+}
+
+.story {
+  position: absolute;
+  top: 400px;
+  left: 870px;
+  visibility: 200px;
+}
+
+#option1 {
+  display: none;
+}
+
+#qwe {
+  height: 40px;
+  width: 640px;
+  position: absolute;
+  left: 500px;
+  top: 430px;
+  color: blue;
+  font-size: 30px;
+  font-family: 'Indie Flower', cursive;
+  background: white;
+}

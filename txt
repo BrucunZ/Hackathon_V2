@@ -1,0 +1,36 @@
+The actual history.
+  ATTENTION!!!!!! Y'ALL GOTTA KNOW THIS
+Years from now, life became a survival question.
+In New york, How could we survive?
+
+1- WHAT IS YOUR WEBSITE/APP STANDING FOR?
+..Well!! It is about an apocalytic world where in New York City we have
+this character who is actually a fugitif, a survivor.
+
+2- HOW DOES YOUR HTML DO?
+...In the html we have the images and the characters such as the girl,
+the pumpin and the A.I
+
+3- WHAT ARE THE TAGS THAT YOU USED TO MAKE IT WORK?
+..Besides all the fundemental html tags, we have:
+-div tag;
+-image tag;
+-p tag
+
+4- WHAT DOES YOUR JAVASCRIPT DO?
+.a- Swapper function: It makes one question invisible, while showing
+a new one.
+b- keydown function: By using the keys values just like the way a click
+function works. And we see the character moving according the direction
+but actually it is the background image that moves.
+c- click function: The click function works like a condition where
+clicking on the div "pump" activates the action.
+however, it work according to the value of the variable "talk" with 1,2
+and 3 as possible values.
+
+
+
+
+
+
+
